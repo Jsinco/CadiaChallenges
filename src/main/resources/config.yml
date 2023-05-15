@@ -1,9 +1,9 @@
-Whitelist_BlockBreak:
+block-break-whitelist:
   - DIAMOND_BLOCK
   - GOLD_BLOCK
   - IRON_BLOCK
   - EMERALD_BLOCK
 #
-Whitelist_BlockPlace:
+block-place-whitelist:
   - DIRT
   - ANVIL
