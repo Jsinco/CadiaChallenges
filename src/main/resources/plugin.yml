@@ -1,0 +1,4 @@
+name: CadiaChallenges
+version: '${project.version}'
+main: me.jsinco.cadiachallenges.CadiaChallenges
+api-version: 1.19
