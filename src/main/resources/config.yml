@@ -1,9 +1,14 @@
 block-break-whitelist:
-  - DIAMOND_BLOCK
-  - GOLD_BLOCK
-  - IRON_BLOCK
-  - EMERALD_BLOCK
+  - STONE
+  - GRASS_BLOCK
 #
 block-place-whitelist:
-  - DIRT
+  - OAK_LOG
   - ANVIL
+#
+entity-whitelist:
+  - CREEPER
+  - ZOMBIE
+  - SKELETON
+#
+TourneyMode: block-break

@@ -10,7 +10,7 @@ public class Stats {
     private static File file;
     private static FileConfiguration customFile;
 
-    //Finds or generates the custom config file
+    //Finds or generates YAML stats
     public static void setup(){
         file = new File(Bukkit.getServer().getPluginManager().getPlugin("CadiaChallenges").getDataFolder(), "Stats.yml");
 

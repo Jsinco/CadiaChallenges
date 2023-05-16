@@ -1,4 +1,11 @@
 name: CadiaChallenges
-version: '${project.version}'
+version: '${1.0}'
 main: me.jsinco.cadiachallenges.CadiaChallenges
 api-version: 1.19
+authors: [Jsinco, Faln]
+commands:
+  statsreload:
+    description: Reloads the stats.yml file
+    usage: /<command>
+    permission: cadiachallenges.statsreload
+    permission-message: No permission
